@@ -1,0 +1,21 @@
+{
+  "name": "rs-school-interview",
+  "version": "1.0.0",
+  "description": "Interview Tasks for RSSchool 2021Q1",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GenaMinenkov/rs-school-interview-js.git"
+  },
+  "author": "Gennady Minenkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GenaMinenkov/rs-school-interview-js/issues"
+  },
+  "homepage": "https://github.com/GenaMinenkov/rs-school-interview-js#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
